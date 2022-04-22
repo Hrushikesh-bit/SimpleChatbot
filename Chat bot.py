@@ -18,7 +18,7 @@ def send():
 
 
 
-root.title("Ashwin's Chatbot.....")
+root.title("Ash Chatbot.....")
 text=Text(root,bg="yellow")
 text.grid(row=0, column=0, columnspan=2)
 a= Entry(root, width=80)
